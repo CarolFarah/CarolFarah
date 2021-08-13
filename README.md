@@ -13,13 +13,13 @@ const carolfarah = {
     pronouns: "She" | "Her",
     askMeAbout: ["HQs", "games", "development tools", "tech", "healthy lyfestyle"],
     technologies:{
-        backEnd: ["python", "c#", "c++", "java"],
-        fronEnd: ["html", "react", "javascript"],
-        mobileApp: ["react native","angular"],
-        database: ["oracle","postgresql"],
-        misc: ["Git", "GitFlow", "Scrum", "SAP ECC", "PL/SQL"]
+        backEnd: ["python", "c++", "java"],
+        libs: ["pandas", "numpy", "matplotlib"],
+        mobileApp: ["react native"],
+        database: ["oracle", "sqlite", "mariadb"],
+        misc: ["git", "scrum", "sap ecc/hana", "pl/sql"]
     },
-    architecture: ["Single page applications"],
+    main_goals: ["data science", "machine learning", "data analysis", "artificial intelligence", "deep learning", "internet of things", "robotic process automation"],
 }
 ```
 --- 
