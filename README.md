@@ -19,7 +19,7 @@ const carolfarah = {
         database: ["oracle", "sqlite", "mariadb"],
         misc: ["git", "scrum", "sap ecc/hana", "pl/sql"]
     },
-    mainGoals: ["data science", "machine learning", "data analysis", "artificial intelligence", "deep learning", "internet of things", "robotic process automation"],
+    mainGoals: ["data science", "machine learning", "big data", "data engineering", "artificial intelligence", "deep learning", "internet of things", "robotic process automation"],
 }
 ```
 --- 
