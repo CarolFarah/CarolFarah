@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/5xaOcLL0ZVGvMGiQJDq/giphy.gif" width="230">
 
 ### Hello, World! My name is Ana Carolina Farah, best known as Carol.
-### Systems Analysis - almost graduated | Developer - early stage 👨‍💻
+### Systems Analyst | Data Engineer - Databricks specialist 👨‍💻
 
 [![](https://img.shields.io/badge/AddMe-LinkedIn-blue)](https://www.linkedin.com/in/anacarolfarah/)
 
